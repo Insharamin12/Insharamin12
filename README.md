@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I'm A Web Developer turned Developer Advocate 
+- 👯 I thrive on the intersection of technology and human connection.
+- 🌱 Paving my way to Full-stack devlopment
+- 😄 Pronouns: She/Her
+- 😄 I write content on Twitter and LinkedIn
+- 📫 How to reach me: insharamin34@gmail.com
+
+
 <!--
 **Insharamin12/Insharamin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
