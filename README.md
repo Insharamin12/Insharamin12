@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I'm A Web Developer turned Developer Advocate 
-- 👯 I thrive on the intersection of technology and human connection.
 - 🌱 Paving my way to Full-stack development
 - 😄 Pronouns: She/Her
 - 😄 I write content on Twitter and LinkedIn
