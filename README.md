@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hey, I am Insha Ramin (she/her)👋
 
-- 🔭 I'm A Web Developer turned Developer Advocate 
-- 🌱 Paving my way to Full-stack development
-- 😄 Pronouns: She/Her
+- 🔭 Working as a Developer Community Manager
+- 🌱 Ex DevRel- @Showwcase, @DashaAI
+- 🎉 Contributing to communities: Google WTM, SheFi, Safary
 - 😄 I write content on Twitter and LinkedIn
 - 📫 How to reach me: insharamin34@gmail.com
 
